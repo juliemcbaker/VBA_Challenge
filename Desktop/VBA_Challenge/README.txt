@@ -7,4 +7,4 @@ Baker_2016_Report.png
 
 The analysis code is in VBA-Challenge_Baker.vb.
 
-The data are in Multiple_year_stock_data.xlsm
+The data were in Multiple_year_stock_data.xlsm which is not included due to file size.
